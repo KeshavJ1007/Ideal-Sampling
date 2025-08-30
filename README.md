@@ -200,15 +200,9 @@ plt.show()
 ```
 IDEAL SAMPLING 
 <img width="866" height="393" alt="image" src="https://github.com/user-attachments/assets/4fb9b4af-7e3f-45b5-8f2c-e1089309490f" />
-
-NATURAL SAMPLING
-<img width="1390" height="989" alt="image" src="https://github.com/user-attachments/assets/d163e3f4-f94c-4e2f-887e-904096f6310a" />
-
-FLAT-TOP SAMPLING
-<img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/26107859-9aff-4ed5-af20-70ccb9e184a9" />
 ```
 # Results
 ```
-Thus we consrtucted and reconsrtucted ideal, natural and flat top sampling using python code
+Thus we consrtucted and reconsrtucted ideal, natural and flat top sampling using python code.
 ```
 # Hardware experiment output waveform.
