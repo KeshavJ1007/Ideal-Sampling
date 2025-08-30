@@ -194,16 +194,19 @@ plt.legend()
 plt.grid(True)
 plt.tight_layout()
 plt.show()
-
 ```
+
 # Output Waveform
 # Ideal Sampling
-```
-<img width="866" height="393" alt="is" src="https://github.com/user-attachments/assets/cb62234d-0827-4a78-a09f-f1ec9db1aa14" />
+<img width="989" height="889" alt="image" src="https://github.com/user-attachments/assets/f4d5b4d1-a0c4-4168-b23b-ab38ec692b90" />
 
-```
+# Natural Sampling
+<img width="1390" height="989" alt="image" src="https://github.com/user-attachments/assets/e0c17098-ba63-4208-88e6-d04055974e48" />
+
+# Flat-top Sampling
+<img width="1398" height="990" alt="image" src="https://github.com/user-attachments/assets/ca9b1dcf-894b-4ae4-b27e-077c52ae2d16" />
+
 # Results
-```
 Thus we consrtucted and reconsrtucted ideal, natural and flat top sampling using python code.
-```
+
 # Hardware experiment output waveform.
