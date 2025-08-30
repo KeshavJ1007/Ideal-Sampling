@@ -3,8 +3,9 @@
 Write a simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling.
 # Tools required
 # Program
+
+# Impulse Sampling
 ```
-#Impulse Sampling
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import resample
@@ -46,8 +47,9 @@ plt.grid(True)
 plt.legend()
 plt.show()
 
-
-#Natural Sampling
+```
+# Natural Sampling
+```
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
@@ -123,8 +125,10 @@ plt.grid(True)
 plt.tight_layout()
 plt.show()
 
+```
 
-#Flat-top Sampling
+# Flat-top Sampling
+```
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.signal import butter, lfilter
